@@ -1,0 +1,19 @@
+PODS:
+  - CocoaAsyncSocket (7.4.1)
+  - MDWamp (2.2.0):
+    - CocoaAsyncSocket
+    - MPMessagePack
+    - SocketRocket
+  - MPMessagePack (1.0.9)
+  - SocketRocket (0.3.1-beta2)
+
+DEPENDENCIES:
+  - MDWamp
+
+SPEC CHECKSUMS:
+  CocoaAsyncSocket: b0a1a89e7ea4c1c0ea4ec83f57d55117d3cdae06
+  MDWamp: a365b0ff702b458d440bf38245568329ee45aef5
+  MPMessagePack: 5f7a3be352856ae5dbe2ca7b76ff3642d578be06
+  SocketRocket: 79a68ae186063c65e1fe6f638b1ae2927aa5f304
+
+COCOAPODS: 0.34.4

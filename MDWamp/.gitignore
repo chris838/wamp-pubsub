@@ -1,0 +1,10 @@
+.DS_Store
+MDWamp/build
+MDWampTest/build
+MDWamp/MDWamp.xcodeproj/project.xcworkspace/xcuserdata/*
+MDWamp/MDWamp.xcodeproj/xcuserdata/*
+MDWampTest/MDWampTest.xcodeproj/project.xcworkspace/xcuserdata/*
+MDWampTest/MDWampTest.xcodeproj/xcuserdata/*
+MDWamp.xcodeproj/project.xcworkspace/xcuserdata/*
+MDWamp.xcodeproj/xcuserdata/*
+MDWamp.xcodeproj/project.xcworkspace/xcshareddata
